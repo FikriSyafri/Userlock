@@ -1,5 +1,7 @@
 {
-
-
-
+"adm_fikri": {
+   "password": "$2y$12$nXZW8gjwYFGkLi4kw1gehe5MS81qjL0xcyk1OcSCqoLU6XIyvubTW",
+   "devices": ["MIMAX393B607089351E802"],
+   "expiry": "28-02-2025 12:00 PM"
+},
 }
