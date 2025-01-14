@@ -9,4 +9,9 @@
    "devices": ["21061119AG8F5C06DD41487964"],
    "expiry": "31-01-2025 12:00 PM"
 },
+"mlg_secangkirkopi": {
+   "password": "$2y$12$3h1g6OjCvrEzHj9Sbha4duLwwiFMujPcxVdOp75KnhZjKjD5KgxhO",
+   "devices": ["REDMINOTE43AB700461994B5B8"],
+   "expiry": "02-02-2025 12:00 PM"
+},
 }
