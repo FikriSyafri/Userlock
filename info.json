@@ -24,4 +24,9 @@
    "devices": ["REDMI3S70F08ACDA21A27D4"],
    "expiry": "17-02-2025 12:00 PM"
 },
+"mlg_mimax3": {
+   "password": "$2y$12$hCl7BU/GI512yZ7rTyqfae48YowVNz9Cr/2XA1yAbYNFyUZh5acxG",
+   "devices": ["MIMAX3DFE279AF0A8B014B"],
+   "expiry": "01-01-2026 12:00 PM"
+},
 }
