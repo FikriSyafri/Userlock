@@ -29,4 +29,9 @@
    "devices": ["MIMAX3DFE279AF0A8B014B"],
    "expiry": "01-01-2026 12:00 PM"
 },
+"angling": {
+   "password": "$2y$12$9FMkeXHyAGARVO5rGGqvZOPlHtAaMUhG65/ESLWC4dA6Vyzigvs5q",
+   "devices": ["2201116SG331CF5A9F27F6507"],
+   "expiry": "18-04-2025 12:00 PM"
+},
 }
