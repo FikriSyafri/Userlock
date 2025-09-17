@@ -39,4 +39,9 @@
    "devices": ["2203129GAD66690749946852"],
    "expiry": "24-06-2025 12:00 PM"
 },
+   "admin3": {
+   "password": "$2y$12$q/YKvzKDXh.hhL47VEAj2OuNu6n6DzNDz8jMBAMQbE/bpijAzpOIK",
+   "devices": ["21061119AGCD52CE813631F250"],
+   "expiry": "31-12-2025 12:00 PM"
+},
 }
