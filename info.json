@@ -44,8 +44,8 @@
    "devices": ["21061119AGCD52CE813631F250"],
    "expiry": "31-12-2025 12:00 PM"
 },
-   "pak_edi": {
-   "password": "$2y$12$kkkD.oyps2k.G92hRGMjzu82g.0uDYIem68Z1HVo26uRtM4otsu2y",
+"pak_edi": {
+   "password": "$2y$12$qrl6Int5dErTArB3O.K5wujnD9Flaynogp0nZevZYeppCeWiemV3W",
    "devices": ["M2010J19CGA665FF7FFCC6BFBC"],
    "expiry": "31-12-2025 12:00 PM"
 },
